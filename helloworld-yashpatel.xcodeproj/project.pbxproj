@@ -19,8 +19,8 @@
 		CCB5C9452200A201008EE581 /* 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9412200A201008EE581 /* 4.PNG */; };
 		CCB5C9462200A201008EE581 /* 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9422200A201008EE581 /* 2.PNG */; };
 		CCB5C94A2200A5AD008EE581 /* 6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9472200A5AD008EE581 /* 6.PNG */; };
-		CCB5C94B2200A5AD008EE581 /* 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9482200A5AD008EE581 /* 7.PNG */; };
 		CCB5C94C2200A5AD008EE581 /* 5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9492200A5AD008EE581 /* 5.PNG */; };
+		CCB5C94D2200A82B008EE581 /* 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C94F2200A82B008EE581 /* 7.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,8 +40,8 @@
 		CCB5C9412200A201008EE581 /* 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.PNG; path = ../../../../../../Downloads/birme/4.PNG; sourceTree = "<group>"; };
 		CCB5C9422200A201008EE581 /* 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.PNG; path = ../../../../../../Downloads/birme/2.PNG; sourceTree = "<group>"; };
 		CCB5C9472200A5AD008EE581 /* 6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.PNG; path = ../../../../../../Downloads/birme/6.PNG; sourceTree = "<group>"; };
-		CCB5C9482200A5AD008EE581 /* 7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.PNG; path = ../../../../../../Downloads/birme/7.PNG; sourceTree = "<group>"; };
 		CCB5C9492200A5AD008EE581 /* 5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.PNG; path = ../../../../../../Downloads/birme/5.PNG; sourceTree = "<group>"; };
+		CCB5C94E2200A82B008EE581 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/7.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 			children = (
 				CCB5C9492200A5AD008EE581 /* 5.PNG */,
 				CCB5C9472200A5AD008EE581 /* 6.PNG */,
-				CCB5C9482200A5AD008EE581 /* 7.PNG */,
+				CCB5C94F2200A82B008EE581 /* 7.PNG */,
 				CCB5C93F2200A201008EE581 /* 1.PNG */,
 				CCB5C9422200A201008EE581 /* 2.PNG */,
 				CCB5C9402200A201008EE581 /* 3.PNG */,
@@ -158,7 +158,7 @@
 				CCB5C93E220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif in Resources */,
 				CCB5C9462200A201008EE581 /* 2.PNG in Resources */,
 				CCB5C9432200A201008EE581 /* 1.PNG in Resources */,
-				CCB5C94B2200A5AD008EE581 /* 7.PNG in Resources */,
+				CCB5C94D2200A82B008EE581 /* 7.PNG in Resources */,
 				CCB5C9442200A201008EE581 /* 3.PNG in Resources */,
 				CCB5C9452200A201008EE581 /* 4.PNG in Resources */,
 				CC854A2D21FF8463002EE896 /* Assets.xcassets in Resources */,
@@ -196,6 +196,15 @@
 				CC854A2F21FF8463002EE896 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		CCB5C94F2200A82B008EE581 /* 7.PNG */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CCB5C94E2200A82B008EE581 /* Base */,
+			);
+			name = 7.PNG;
+			path = ../../../../../../Downloads/birme;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

@@ -25,8 +25,6 @@
                          [UIImage imageNamed:@"5.PNG"],
                          [UIImage imageNamed:@"6.PNG"],
                          [UIImage imageNamed:@"7.PNG"],
-                         
-                         
                          nil];
     [img setAnimationRepeatCount:0];
     img.animationDuration = 5;
@@ -38,7 +36,7 @@
 }
 
 -(IBAction)home:(id)sender{
-    
+    [_labletwo setText:@" Please click on dashbiard to view more"];
 }
 
 

@@ -14,6 +14,7 @@
 @interface ViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UIImageView *img;
 @property (weak, nonatomic) IBOutlet UIButton *home;
+@property (weak, nonatomic) IBOutlet UILabel *labletwo;
 
 
 @end
