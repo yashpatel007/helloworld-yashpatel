@@ -13,6 +13,14 @@
 		CC854A2D21FF8463002EE896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC854A2C21FF8463002EE896 /* Assets.xcassets */; };
 		CC854A3021FF8463002EE896 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC854A2E21FF8463002EE896 /* LaunchScreen.storyboard */; };
 		CC854A3321FF8463002EE896 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CC854A3221FF8463002EE896 /* main.m */; };
+		CCB5C93E220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C93D220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif */; };
+		CCB5C9432200A201008EE581 /* 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C93F2200A201008EE581 /* 1.PNG */; };
+		CCB5C9442200A201008EE581 /* 3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9402200A201008EE581 /* 3.PNG */; };
+		CCB5C9452200A201008EE581 /* 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9412200A201008EE581 /* 4.PNG */; };
+		CCB5C9462200A201008EE581 /* 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9422200A201008EE581 /* 2.PNG */; };
+		CCB5C94A2200A5AD008EE581 /* 6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9472200A5AD008EE581 /* 6.PNG */; };
+		CCB5C94B2200A5AD008EE581 /* 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9482200A5AD008EE581 /* 7.PNG */; };
+		CCB5C94C2200A5AD008EE581 /* 5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = CCB5C9492200A5AD008EE581 /* 5.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +34,14 @@
 		CC854A2F21FF8463002EE896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC854A3121FF8463002EE896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC854A3221FF8463002EE896 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CCB5C93D220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "Wizard-Clap-by-Markus-Magnusson.gif"; path = "../../../../../../Downloads/Wizard-Clap-by-Markus-Magnusson.gif"; sourceTree = "<group>"; };
+		CCB5C93F2200A201008EE581 /* 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.PNG; path = ../../../../../../Downloads/birme/1.PNG; sourceTree = "<group>"; };
+		CCB5C9402200A201008EE581 /* 3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.PNG; path = ../../../../../../Downloads/birme/3.PNG; sourceTree = "<group>"; };
+		CCB5C9412200A201008EE581 /* 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.PNG; path = ../../../../../../Downloads/birme/4.PNG; sourceTree = "<group>"; };
+		CCB5C9422200A201008EE581 /* 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.PNG; path = ../../../../../../Downloads/birme/2.PNG; sourceTree = "<group>"; };
+		CCB5C9472200A5AD008EE581 /* 6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.PNG; path = ../../../../../../Downloads/birme/6.PNG; sourceTree = "<group>"; };
+		CCB5C9482200A5AD008EE581 /* 7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.PNG; path = ../../../../../../Downloads/birme/7.PNG; sourceTree = "<group>"; };
+		CCB5C9492200A5AD008EE581 /* 5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.PNG; path = ../../../../../../Downloads/birme/5.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 		CC854A2221FF8462002EE896 /* helloworld-yashpatel */ = {
 			isa = PBXGroup;
 			children = (
+				CCB5C9492200A5AD008EE581 /* 5.PNG */,
+				CCB5C9472200A5AD008EE581 /* 6.PNG */,
+				CCB5C9482200A5AD008EE581 /* 7.PNG */,
+				CCB5C93F2200A201008EE581 /* 1.PNG */,
+				CCB5C9422200A201008EE581 /* 2.PNG */,
+				CCB5C9402200A201008EE581 /* 3.PNG */,
+				CCB5C9412200A201008EE581 /* 4.PNG */,
+				CCB5C93D220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif */,
 				CC854A2321FF8462002EE896 /* AppDelegate.h */,
 				CC854A2421FF8462002EE896 /* AppDelegate.m */,
 				CC854A2621FF8462002EE896 /* ViewController.h */,
@@ -128,7 +152,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCB5C94C2200A5AD008EE581 /* 5.PNG in Resources */,
+				CCB5C94A2200A5AD008EE581 /* 6.PNG in Resources */,
 				CC854A3021FF8463002EE896 /* LaunchScreen.storyboard in Resources */,
+				CCB5C93E220095C7008EE581 /* Wizard-Clap-by-Markus-Magnusson.gif in Resources */,
+				CCB5C9462200A201008EE581 /* 2.PNG in Resources */,
+				CCB5C9432200A201008EE581 /* 1.PNG in Resources */,
+				CCB5C94B2200A5AD008EE581 /* 7.PNG in Resources */,
+				CCB5C9442200A201008EE581 /* 3.PNG in Resources */,
+				CCB5C9452200A201008EE581 /* 4.PNG in Resources */,
 				CC854A2D21FF8463002EE896 /* Assets.xcassets in Resources */,
 				CC854A2B21FF8462002EE896 /* Main.storyboard in Resources */,
 			);
