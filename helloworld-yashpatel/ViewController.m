@@ -29,14 +29,10 @@
     [img setAnimationRepeatCount:0];
     img.animationDuration = 5;
     [img startAnimating];
-    
-    
-    
-    
 }
 
 -(IBAction)home:(id)sender{
-    [_labletwo setText:@" Please click on dashbiard to view more"];
+    [_labletwo setText:@" Please click on dashboard to view more"];
 }
 
 
