@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 
+
 @interface ViewController ()
 
 @end
@@ -84,6 +85,8 @@
     [santa setAnimationRepeatCount:0];
     santa.animationDuration = 2;
     [santa startAnimating];
+    
+    
 }
 
 -(IBAction)home:(id)sender{
