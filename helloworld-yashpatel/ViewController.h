@@ -15,7 +15,9 @@
 @property (weak, nonatomic) IBOutlet UIImageView *img;
 @property (weak, nonatomic) IBOutlet UIButton *home;
 @property (weak, nonatomic) IBOutlet UILabel *labletwo;
+@property (weak, nonatomic) IBOutlet UIImageView *santa;
 
 
 @end
+
 
